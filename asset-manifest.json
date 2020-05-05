@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bubble-loading/static/css/main.aec8f6db.chunk.css",
+    "main.js": "/react-bubble-loading/static/js/main.f223c1d6.chunk.js",
+    "main.js.map": "/react-bubble-loading/static/js/main.f223c1d6.chunk.js.map",
+    "runtime-main.js": "/react-bubble-loading/static/js/runtime-main.00f76bb8.js",
+    "runtime-main.js.map": "/react-bubble-loading/static/js/runtime-main.00f76bb8.js.map",
+    "static/js/2.3aef89f0.chunk.js": "/react-bubble-loading/static/js/2.3aef89f0.chunk.js",
+    "static/js/2.3aef89f0.chunk.js.map": "/react-bubble-loading/static/js/2.3aef89f0.chunk.js.map",
+    "index.html": "/react-bubble-loading/index.html",
+    "precache-manifest.3025bd9565e057f25cd2cf0ad0f1fded.js": "/react-bubble-loading/precache-manifest.3025bd9565e057f25cd2cf0ad0f1fded.js",
+    "service-worker.js": "/react-bubble-loading/service-worker.js",
+    "static/css/main.aec8f6db.chunk.css.map": "/react-bubble-loading/static/css/main.aec8f6db.chunk.css.map",
+    "static/js/2.3aef89f0.chunk.js.LICENSE.txt": "/react-bubble-loading/static/js/2.3aef89f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00f76bb8.js",
+    "static/js/2.3aef89f0.chunk.js",
+    "static/css/main.aec8f6db.chunk.css",
+    "static/js/main.f223c1d6.chunk.js"
+  ]
+}
